@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Maxime Bécu-Métailler
 - 👀 I’m interested in new technologies, web 3.0, IA, IOT, Quantum Physics and Computing
-- 🌱 I’m currently learning Svelte framework
-- 💞️ I’m looking to collaborate on a web based video game
+- 🌱 I’m currently learning Rust
+- 💞️ I’m looking to collaborate on a video game
 - 📫 You can reach me at this adress : contact.mbm@pm.me
 
 <!---
